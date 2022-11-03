@@ -1,7 +1,10 @@
 # Amazon Vine Review Analysis
 
-## Overview of the analysis: 
-Explain the purpose of this analysis.
+## Overview of the analysis:
+
+Amazon Vine is a program that helps companies receive reviews from Vine members for their products in return for a small fee. The program and fee guarantees reviews by requiring Vine members to review products.
+
+The Amazon Vine analysis digs into a dataset containing reviews of pet supply products. PySpark is used to perform the ETL process by connecting to an AWS RDS instance and loading the data into pgAdmin. PySpark is also used to analyze the dataset and determine if there is bias toward favorable reviews from Vine members.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions:
