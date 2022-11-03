@@ -18,4 +18,5 @@ The Amazon Vine analysis digs into a dataset containing reviews of pet supply pr
   - The percentage of 5 star Vine reviews was 38.23% and 54.47% for non-Vine reviews.
 
 ## Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+55% of reviews were from non-Vine members and 38% were from Vine members. This would suggest that there is not a bias toward favorable reviews from Vine members for pet products. Additionally, statistical analysis such as a two sample t-test could help quantify uncertainty caused by bias.
